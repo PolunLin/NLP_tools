@@ -1,4 +1,6 @@
 # NLP_tools
+
+```
 clean_gram = clean_tool.to_lowercase(gram)
         clean_gram = clean_tool.remove_Numbers(clean_gram)
         clean_gram = clean_tool.remove_URL(clean_gram)
@@ -12,3 +14,4 @@ clean_gram = clean_tool.to_lowercase(gram)
         clean_gram = clean_tool.replaceMultiQuestionMark(clean_gram)
         clean_gram = clean_tool.replaceMultiStopMark(clean_gram)
         clean_gram = clean_tool.check_word_length(clean_gram)
+```
